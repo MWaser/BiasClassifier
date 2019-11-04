@@ -1,0 +1,18 @@
+﻿/* TEAM */
+	Chief Research Scientist: David J Kelley
+	Contact: David [at] ArtificialGeneralIntelligenceInc.com
+	Twitter: @DavidJKelley
+	From:Seattle, WA, USA
+
+/* THANKS */
+
+	Name: Arnold Sylvester
+	Name: David Othus
+	Name: Mark Waser
+	
+/* SITE */
+	Last update:2019/07/07
+	Language: English 
+	Doctype:HTML5
+	IDE: Visual Studio, TextPad
+	Host: Azure
